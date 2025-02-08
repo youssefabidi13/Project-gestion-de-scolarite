@@ -1,7 +1,3 @@
-Thanks for the clarification! Here's an updated and more detailed README that includes both the **Java Swing Desktop** and **PHP Web** components of the project.
-
----
-
 ## **Project Name:** School Management System
 
 ### **Description:**
